@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "localhost/MariaDB 10/";
 $username = "Web";
 $password = "@Stefan1e!2W3b";
 
