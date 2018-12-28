@@ -15,8 +15,7 @@ session_start();
   <body class="bg-light">
     <!-- Navigation -->
     <?php include("nav.php");?>
-    <!-- Map -->
-    <?php include("map.php");?>
-
+    <!-- Checkin -->
+    <?php include("checkin.php");?>
   </body>
 </html>
